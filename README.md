@@ -56,4 +56,4 @@ wplace-2click/
 
 ---
 
-📄 **개인정보 처리방침 (Privacy Policy)**: [privacy-policy.html](privacy-policy.html)
+📄 **개인정보 처리방침 (Privacy Policy)**: [privacy-policy.html](<https://jtech-co.github.io/wplace-2click/privacy-policy.html>)
