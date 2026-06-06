@@ -53,3 +53,7 @@ wplace-2click/
 
 - **License**: MIT
 - **참고**: 입력창에 타이핑 중일 때는 동작하지 않습니다.
+
+---
+
+📄 **개인정보 처리방침 (Privacy Policy)**: [privacy-policy.html](privacy-policy.html)
